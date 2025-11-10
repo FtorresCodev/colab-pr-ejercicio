@@ -1,5 +1,5 @@
 # colab-pr-ejercicio
-## Notas de práctica
+## Notas de práctica (edición local en rama)
 - Autor: FRANCISCO_TORRES
 - Objetivo: practicar PRs internas
 
